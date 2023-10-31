@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <string name="title">Fetch Exercise</string>
+    <string name="itemId">&#160;Item-Id&#160;</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="button_string">Fetch Data</string>
+</resources>
